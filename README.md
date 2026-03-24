@@ -2,7 +2,7 @@
 
 **Eggscape!** is a playful arcade-style game built in Scratch where players guide a fragile egg through a chaotic world full of obstacles. Using the mouse, the goal is to dodge lightning bolts, spikes, and a hungry dinosaur while collecting coins to increase your score.
 
-As the score grows, the egg grows too — making it harder to avoid danger and forcing players to adapt their strategy. What starts as a simple challenge quickly becomes a test of focus, timing, and quick reactions.
+As the score grows, the egg grows too , making it harder to avoid danger and forcing players to adapt their strategy. What starts as a simple challenge quickly becomes a test of focus, timing, and quick reactions.
 
 This project was created using **Scratch**, which allowed me to explore programming concepts through its visual, drag-and-drop interface while focusing on creativity and game design.
 

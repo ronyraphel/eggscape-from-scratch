@@ -1,4 +1,4 @@
-## 🥚 Eggscape!...
+## 🥚 Eggscape!
 
 **Eggscape!** is a playful arcade-style game built in Scratch where players guide a fragile egg through a chaotic world full of obstacles. Using the mouse, the goal is to dodge lightning bolts, spikes, and a hungry dinosaur while collecting coins to increase your score.
 
